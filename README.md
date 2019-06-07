@@ -1,6 +1,8 @@
 ## Computer Vision Face Detection with OpenCV :octocat: 
 
 
+#### Applying Viola - Jones algorithm for finding Harr like features in the image, applying Cascading using OpenCV
+
 *The process goes like this,*
 
 - Capture the frames in the video
